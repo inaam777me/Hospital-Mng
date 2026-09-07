@@ -7,7 +7,7 @@ import java.util.Scanner;
  * (Queue), TreatmentLog (Stack), and PatientHistoryChain (Linked List)
  * into one interactive hospital management program.
  */
-public class Main {
+public class main {
 
     private static final PatientBST patientBst = new PatientBST();
     private static final WaitingLineManager waitingLine = new WaitingLineManager();
